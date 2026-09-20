@@ -9,9 +9,9 @@
 ---
 
 ### 🚀 About Me
-* I'm a senior IT student at **STI College Legazpi** who loves building apps and websites that are easy and enjoyable to use[cite: 1].
-* I really enjoy the planning side of software, like figuring out how a program will look on screen and mapping out how everything connects before coding even starts[cite: 1].
-* My main goal is to create dependable tech tools that make life easier, while always learning new ways to improve my design and coding skills[cite: 1].
+* I'm a senior IT student at **STI College Legazpi** who loves building apps and websites that are easy and enjoyable to use.
+* I really enjoy the planning side of software, like figuring out how a program will look on screen and mapping out how everything connects before coding even starts.
+* My main goal is to create dependable tech tools that make life easier, while always learning new ways to improve my design and coding skills.
 
 ---
 
@@ -64,18 +64,18 @@
   </tr>
 </table>
 
-* **Core Competencies:** Data Flow Diagrams (DFD)[cite: 1], System Planning, Basic Debugging, and Software Testing[cite: 1].
+* **Core Competencies:** Data Flow Diagrams (DFD), System Planning, Basic Debugging, and Software Testing.
 
 ---
 
 ### 🏆 Featured Projects
 
-* **Centralized Digital Multi-Branch Platform for the Leo Mejillano Salon and Beauty Services Brand (2025–2026)**[cite: 1]
-  * *Tech Stack:* HTML, Tailwind CSS, JavaScript Frontend, PHP Backend, XAMPP (MySQL Database)[cite: 1]
-  * *Overview:* Designed a multi-branch system utilizing Data Flow Diagrams for structured application workflows and database management[cite: 1].
-* **Bakery Management System (2024–2025)**[cite: 1]
-  * *Tech Stack:* C# (Backend), XAMPP (Database Management)[cite: 1]
-  * *Overview:* Developed backend software components and handled database organization for a bakery management workflow[cite: 1].
+* **Centralized Digital Multi-Branch Platform for the Leo Mejillano Salon and Beauty Services Brand (2025–2026)**
+  * *Tech Stack:* HTML, Tailwind CSS, JavaScript Frontend, PHP Backend, XAMPP (MySQL Database)
+  * *Overview:* Designed a multi-branch system utilizing Data Flow Diagrams for structured application workflows and database management.
+* **Bakery Management System (2024–2025)**
+  * *Tech Stack:* C# (Backend), XAMPP (Database Management)
+  * *Overview:* Developed backend software components and handled database organization for a bakery management workflow.
 
 ---
 
@@ -91,7 +91,7 @@
 ---
 
 ### 📫 Connect with Me
-* **Email:** paulobalaguer@outlook.com[cite: 1]
-* **Location:** Padang, Legazpi City[cite: 1]
-* **Phone:** +63 915 923 5946[cite: 1]
+* **Email:** paulobalaguer@outlook.com
+* **Location:** Padang, Legazpi City
+* **Phone:** +63 915 923 5946
 * **GitHub:** [github.com/PauloBalaguer](https://github.com/PauloBalaguer)
