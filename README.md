@@ -54,7 +54,7 @@
       <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL / XAMPP" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="XAMPP / MySQL" />
       <br>XAMPP / MySQL
     </td>
     <td align="center" width="96">
@@ -82,10 +82,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloBalaguer&show_icons=true&theme=radical" alt="Paulo's GitHub Stats" />
+  <img src="https://github-readme-stats-nine-snowy-23.vercel.app/api?username=PauloBalaguer&show_icons=true&theme=radical" alt="Paulo's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBalaguer&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-nine-snowy-23.vercel.app/api/top-langs/?username=PauloBalaguer&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
